@@ -1,9 +1,7 @@
 ## Hi there 👋 
-프론트엔드 개발자를 목표로 공부하고 있는 조현진입니다 <br> 
-건실하게 학습하지 못한 부분은 다시 돌아가서 또 보는 걸 좋아합니다! 
+ 
 
-- firebase 재밌게 공부중...
-- 같이 프로젝트 하실 분 언제나 환영입니다!
+- 같이 프로젝트 하실 분 환영입니다!
 - 📫 guswlso2@naver.com 으로 연락주세요!
 
 ## 📚 Stacks
@@ -11,6 +9,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
