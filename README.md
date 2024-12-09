@@ -4,6 +4,16 @@
 - 같이 프로젝트 하실 분 환영입니다!
 - 📫 guswlso2@naver.com 으로 연락주세요!
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ahrrrl?pet-id=653844966620159461"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## 📚 Stacks
 <div align=center>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
